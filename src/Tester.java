@@ -1,15 +1,17 @@
+import search.BinaryArray;
+
 import java.util.Scanner;
 
 public class Tester {
 
     public static void main(String[] args) {
 
-     /* MergeSort mergeSort = new MergeSort(10);
+     /* sort.MergeSort mergeSort = new sort.MergeSort(10);
       System.out.println("Unsorted:"+mergeSort+"\n");
       mergeSort.sort();
       System.out.println("Unsorted:"+mergeSort+"\n");*/
 
-     /*InsertionSort sortArray = new InsertionSort(10);
+     /*sort.InsertionSort sortArray = new sort.InsertionSort(10);
 
      System.out.println("Unsorted Array");
      System.out.println(sortArray);
@@ -19,7 +21,7 @@ public class Tester {
      System.out.println("sorted array");
      System.out.println(sortArray);*/
 
-        /*SelectionSort sortArray = new SelectionSort(10);
+        /*sort.SelectionSort sortArray = new sort.SelectionSort(10);
 
         System.out.println("Unsorted Array");
         System.out.println(sortArray);
